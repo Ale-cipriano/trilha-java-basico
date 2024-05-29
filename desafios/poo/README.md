@@ -20,4 +20,6 @@ Com base no vídeo de lançamento do iPhone conforme link abaixo, elabore em uma
 * Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina
 
 
+### Segue o meu esquema UML:
+![Desafio POO](https://github.com/Ale-cipriano/trilha-java-basico/assets/136939757/ba277b4c-dd52-4a34-b987-259faa099db5)
 
