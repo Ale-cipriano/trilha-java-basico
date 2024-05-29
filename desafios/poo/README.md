@@ -21,4 +21,5 @@ Com base no vídeo de lançamento do iPhone conforme link abaixo, elabore em uma
 
 
 ### Segue o meu esquema UML:
-![Desafio POO](https://github.com/Ale-cipriano/trilha-java-basico/assets/136939757/ba277b4c-dd52-4a34-b987-259faa099db5)
+
+![Desafio POO](https://github.com/Ale-cipriano/trilha-java-basico/assets/136939757/958a35d9-896b-4817-9c25-8003a6280637)
